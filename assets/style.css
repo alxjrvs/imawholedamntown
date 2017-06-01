@@ -1,0 +1,15 @@
+body {
+  background-image: url("background.png");
+  background-size: 60px;
+  width: 100%;
+}
+
+.gif {
+  background-image: url('giphy.gif');
+  display: block;
+  height: 100%;
+  width: 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
